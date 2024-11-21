@@ -26,9 +26,10 @@ RST：复位从设备，低电平有效使从设备恢复初始态。
 ![微信图片_20241120234018](https://github.com/user-attachments/assets/adf582b5-3110-4476-86da-f674da329f80)
 
 
-![微信图片_20241121131533](https://github.com/user-attachments/assets/04030bc1-3f23-4bff-9783-dac7cf797904)
 
 
+
+![Uploading 微信图片_20241121193402.jpg…]()
 
 
 
